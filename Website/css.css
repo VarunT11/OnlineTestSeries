@@ -1,0 +1,10 @@
+body{font-family:"Tempus Sans ITC";font-size:30pt;font-weight:bold;color:silver}
+input{font-family:"Bradley Hand ITC";font-size:30pt;font-weight:bold;color:283187}
+textarea{font-family:"Bradley Hand ITC";font-size:30pt;font-weight:bold;color:283187}
+select{font-family:"Bradley Hand ITC";font-size:30pt;font-weight:bold;color:283187}
+file{font-family:"Bradley Hand ITC";font-size:20pt;font-weight:bold;color:283187}
+th{font-size:20pt;color:silver;font-family:"Viner hand ITC";text-align:center}
+td{font-size:20pt;color:gold;font-family:"Bradley Hand ITC";font-weight:bold;text-align:center}
+a:link{font-family:"Tempus Sans ITC";font-size:25pt;font-weight:bold;color:Black;background-color:Silver;border-style:outset;text-decoration:none;border-color:Blue}
+a:visited{font-family:"Tempus Sans ITC";font-size:25pt;font-weight:bold;color:Black;background-color:Silver;border-style:outset;text-decoration:none;border-color:Blue}
+a:active{font-family:"Tempus Sans ITC";font-size:20pt;font-weight:bold;color:Red;background-color:Silver;border-style:inset;text-decoration:none;border-color:Blue}
